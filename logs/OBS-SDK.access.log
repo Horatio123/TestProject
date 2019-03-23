@@ -1,0 +1,39 @@
+main|2019-02-05 23:22:10 552|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:22:11 559|com.obs.services.internal.RestStorageService|handleThrowable|163|Rethrowing as a ServiceException error in performRequest: Request Error.
+2019-02-05 23:22:11 560|com.obs.services.internal.RestStorageService|handleThrowable|188|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:22:11|null||Unsupported Authorization Type|InvalidArgument|
+2019-02-05 23:22:11 562|com.obs.services.ObsClient|doActionWithResult|2260|Storage|1|HTTP+XML|createBucket||||2019-02-05 23:22:10|2019-02-05 23:22:11|||400|
+
+main|2019-02-05 23:23:36 883|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:23:37 759|com.obs.services.internal.RestStorageService|handleThrowable|163|Rethrowing as a ServiceException error in performRequest: Request Error.
+2019-02-05 23:23:37 759|com.obs.services.internal.RestStorageService|handleThrowable|188|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:23:37|null||Unsupported Authorization Type|InvalidArgument|
+2019-02-05 23:23:37 761|com.obs.services.ObsClient|doActionWithResult|2260|Storage|1|HTTP+XML|createBucket||||2019-02-05 23:23:36|2019-02-05 23:23:37|||400|
+
+main|2019-02-05 23:28:18 655|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:28:19 980|com.obs.services.internal.RestStorageService|handleThrowable|163|Rethrowing as a ServiceException error in performRequest: Request Error.
+2019-02-05 23:28:19 981|com.obs.services.internal.RestStorageService|handleThrowable|188|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:28:19|null||The requested bucket name is not available. The bucket namespace is shared by all users of the system. Please select a different name and try again.|BucketAlreadyExists|
+2019-02-05 23:28:19 983|com.obs.services.ObsClient|doActionWithResult|2260|Storage|1|HTTP+XML|createBucket||||2019-02-05 23:28:18|2019-02-05 23:28:19|||409|
+
+main|2019-02-05 23:29:12 491|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:30:18 027|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:30:23 850|com.obs.services.internal.RestStorageService|handleThrowable|163|Rethrowing as a ServiceException error in performRequest: Request Error.
+2019-02-05 23:30:23 851|com.obs.services.internal.RestStorageService|handleThrowable|188|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:30:23|null||The agency must be valid and created by source bucket owner.|InvalidArgument|
+2019-02-05 23:30:23 852|com.obs.services.ObsClient|doActionWithResult|2260|Storage|1|HTTP+XML|setBucketLoggingConfiguration||||2019-02-05 23:30:23|2019-02-05 23:30:23|||400|
+
+main|2019-02-05 23:31:22 538|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:34:05 563|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:36:00 720|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:38:07 594|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:39:06 185|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:46:04 953|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:46:34 244|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+
+main|2019-02-05 23:46:58 391|com.obs.services.ObsClient|init|182|[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+

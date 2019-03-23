@@ -1,0 +1,17 @@
+2019-02-05 23:22:10 547|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:22:11 562|main|WARN |Storage|1|HTTP+XML|createBucket||||2019-02-05 23:22:10|2019-02-05 23:22:11|||400|
+2019-02-05 23:23:36 878|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:23:37 761|main|WARN |Storage|1|HTTP+XML|createBucket||||2019-02-05 23:23:36|2019-02-05 23:23:37|||400|
+2019-02-05 23:28:18 652|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:28:19 983|main|WARN |Storage|1|HTTP+XML|createBucket||||2019-02-05 23:28:18|2019-02-05 23:28:19|||409|
+2019-02-05 23:29:12 487|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:30:18 023|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:30:23 852|main|WARN |Storage|1|HTTP+XML|setBucketLoggingConfiguration||||2019-02-05 23:30:23|2019-02-05 23:30:23|||400|
+2019-02-05 23:31:22 535|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:34:05 560|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:36:00 714|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:38:07 589|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:39:06 182|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:46:04 949|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:46:34 241|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]
+2019-02-05 23:46:58 387|main|WARN |[OBS SDK Version=3.0.3];[Endpoint=https://obs.cn-north-1.myhuaweicloud.com:443/];[Access Mode=Virtul Hosting]

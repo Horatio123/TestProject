@@ -1,0 +1,60 @@
+2019-02-05 23:22:11 555|main|ERROR|Rethrowing as a ServiceException error in performRequest: Request Error.
+com.obs.services.internal.ServiceException: Request Error.
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:494) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:369) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRestPut(RestStorageService.java:682) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.ObsService.createBucketImpl(ObsService.java:1491) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.access$200(ObsClient.java:140) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:557) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:551) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.doActionWithResult(ObsClient.java:2243) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:550) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:541) [esdk-obs-java-3.0.3.jar:?]
+	at com.baimahu.BucketOperationsSample.createBucket(BucketOperationsSample.java:398) [classes/:?]
+	at com.baimahu.BucketOperationsSample.main(BucketOperationsSample.java:59) [classes/:?]
+2019-02-05 23:22:11 560|main|ERROR|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:22:11|null||Unsupported Authorization Type|InvalidArgument|
+2019-02-05 23:23:37 755|main|ERROR|Rethrowing as a ServiceException error in performRequest: Request Error.
+com.obs.services.internal.ServiceException: Request Error.
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:494) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:369) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRestPut(RestStorageService.java:682) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.ObsService.createBucketImpl(ObsService.java:1491) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.access$200(ObsClient.java:140) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:557) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:551) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.doActionWithResult(ObsClient.java:2243) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:550) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:541) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:517) [esdk-obs-java-3.0.3.jar:?]
+	at samples_java.ListObjectsSample.main(ListObjectsSample.java:55) [classes/:?]
+2019-02-05 23:23:37 759|main|ERROR|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:23:37|null||Unsupported Authorization Type|InvalidArgument|
+2019-02-05 23:28:19 973|main|ERROR|Rethrowing as a ServiceException error in performRequest: Request Error.
+com.obs.services.internal.ServiceException: Request Error.
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:494) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:369) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRestPut(RestStorageService.java:682) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.ObsService.createBucketImpl(ObsService.java:1491) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.access$200(ObsClient.java:140) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:557) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$1.action(ObsClient.java:551) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.doActionWithResult(ObsClient.java:2243) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:550) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:541) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.createBucket(ObsClient.java:517) [esdk-obs-java-3.0.3.jar:?]
+	at com.baimahu.App.main(App.java:20) [classes/:?]
+2019-02-05 23:28:19 981|main|ERROR|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:28:19|null||The requested bucket name is not available. The bucket namespace is shared by all users of the system. Please select a different name and try again.|BucketAlreadyExists|
+2019-02-05 23:30:23 845|main|ERROR|Rethrowing as a ServiceException error in performRequest: Request Error.
+com.obs.services.internal.ServiceException: Request Error.
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:494) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRequest(RestStorageService.java:369) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.RestStorageService.performRestPut(RestStorageService.java:682) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.ObsService.setBucketLoggingConfigurationImpl(ObsService.java:1677) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.internal.ObsService.setBucketLoggingConfigurationImpl(ObsService.java:2612) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.access$3100(ObsClient.java:140) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$22.action(ObsClient.java:1079) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient$22.action(ObsClient.java:1075) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.doActionWithResult(ObsClient.java:2243) [esdk-obs-java-3.0.3.jar:?]
+	at com.obs.services.ObsClient.setBucketLoggingConfiguration(ObsClient.java:1074) [esdk-obs-java-3.0.3.jar:?]
+	at com.baimahu.BucketOperationsSample.doBucketLoggingOperation(BucketOperationsSample.java:350) [classes/:?]
+	at com.baimahu.BucketOperationsSample.main(BucketOperationsSample.java:109) [classes/:?]
+2019-02-05 23:30:23 851|main|ERROR|Storage|1|HTTP+XML|performRequest||||2019-02-05 23:30:23|null||The agency must be valid and created by source bucket owner.|InvalidArgument|
