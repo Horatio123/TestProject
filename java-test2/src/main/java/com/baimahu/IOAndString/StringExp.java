@@ -1,10 +1,10 @@
-package com.baimahu;
+package com.baimahu.IOAndString;
 
 public class StringExp {
-    public static void main(String args[]){
+    public static void main(String[] args){
         // split csv format
         String str = "horatio,alexander,cuk";
-        String strs[] = str.split(",");
+        String[] strs = str.split(",");
         for (String s : strs){
             System.out.println(s);
         }

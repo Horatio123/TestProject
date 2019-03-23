@@ -1,4 +1,4 @@
-package com.baimahu;
+package com.baimahu.ArrayAndBasic;
 
 /**
  * Hello world!

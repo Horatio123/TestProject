@@ -1,4 +1,4 @@
-package com.baimahu;
+package com.baimahu.ArrayAndBasic;
 import static java.lang.System.out;
 public class JavaBasic2 {
     static {

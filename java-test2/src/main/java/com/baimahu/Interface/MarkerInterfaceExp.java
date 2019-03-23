@@ -1,10 +1,9 @@
-package com.baimahu;
+package com.baimahu.Interface;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class MarkerInterfaceExp {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Apple apple = new Apple();
         Peach peach = new Peach();
         ArrayList list = new ArrayList();

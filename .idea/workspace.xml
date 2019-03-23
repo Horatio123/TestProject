@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e62f859e-5f3d-40fe-afce-d29aaacaac20" name="Default Changelist" comment="change git name to Horatio" />
+    <list default="true" id="e62f859e-5f3d-40fe-afce-d29aaacaac20" name="Default Changelist" comment="move some java files to new package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InterfaceExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/MarkerInterfaceExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StringExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/WrapperExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AbstractExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AbstractExp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AnonymousDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/ArrayExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Honor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InputExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InterfaceExp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InterfaceExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic2$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/MarkerInterfaceExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Peach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/StringExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/WrapperExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/xxx.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ObsTest/target/" />
@@ -22,46 +62,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStory/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark-basic/src/main/java/com/baimahu/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1218">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="144">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StreamTest.java">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,54 +137,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InterfaceExp.java">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
               <folding>
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/threadSafe/ThreadTest.java">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="222">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
               <folding>
-                <element signature="e#1640#1641#0" expanded="true" />
-                <element signature="e#1676#1677#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="754" column="7" selection-start-line="754" selection-start-column="7" selection-end-line="754" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/OBS-SDK.access.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -179,6 +227,21 @@
         <option value="$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/threadSafe/ThreadTest.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java" />
         <option value="$PROJECT_DIR$/java-test2/pom.xml" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/CheckedExceptionExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ThrowExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ExceptionExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/TryResource.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/UserDefinedExceptionExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java" />
       </list>
     </option>
   </component>
@@ -270,7 +333,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553344689674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553351107554" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -296,13 +359,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputExp">
-    <configuration name="InputExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.InputExp" />
+  <component name="RunManager" selected="Application.JavaBasic">
+    <configuration name="CheckedExceptionExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.CheckedExceptionExp" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.*" />
+          <option name="PATTERN" value="com.baimahu.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.StringExp" />
+    <configuration name="JavaBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.ArrayAndBasic.JavaBasic" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.battle.*" />
+          <option name="PATTERN" value="com.baimahu.ArrayAndBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +386,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.TheadTest" />
-      <module name="JavaStory" />
+    <configuration name="ThrowExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.ThrowExp" />
+      <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.battle.*" />
+          <option name="PATTERN" value="com.baimahu.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +399,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.threadSafe.ThreadTest" />
-      <module name="JavaStory" />
+    <configuration name="TryResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.TryResource" />
+      <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.threadSafe.*" />
+          <option name="PATTERN" value="com.baimahu.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,12 +412,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarroirBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.battle.WarroirBattle" />
-      <module name="JavaStory" />
+    <configuration name="UserDefinedExceptionExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.UserDefinedExceptionExp" />
+      <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.battle.*" />
+          <option name="PATTERN" value="com.baimahu.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,11 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InputExp" />
-        <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.TheadTest" />
-        <item itemvalue="Application.WarroirBattle" />
-        <item itemvalue="Application.StringExp" />
+        <item itemvalue="Application.JavaBasic" />
+        <item itemvalue="Application.UserDefinedExceptionExp" />
+        <item itemvalue="Application.ThrowExp" />
+        <item itemvalue="Application.TryResource" />
+        <item itemvalue="Application.CheckedExceptionExp" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +453,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553344377569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change git name to Horatio">
+      <created>1553344750662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553344750662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add exception example">
+      <created>1553350460074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553350460074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -406,8 +483,8 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.23319027" />
-      <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.2274678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.23319027" />
+      <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.23319027" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -422,8 +499,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32650602" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -463,54 +540,12 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="change git name to Horatio" />
-    <option name="LAST_COMMIT_MESSAGE" value="change git name to Horatio" />
+    <MESSAGE value="add exception" />
+    <MESSAGE value="add exception example" />
+    <MESSAGE value="move some java files to new package" />
+    <option name="LAST_COMMIT_MESSAGE" value="move some java files to new package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaTest/src/test/java/com/baimahu/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-basic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/ConcurrentCopyPartSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2568">
-          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18048">
-          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/baimahu/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -595,36 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91320">
-          <caret line="3890" column="9" selection-start-line="3890" selection-start-column="9" selection-end-line="3890" selection-end-column="9" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,52 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/MarkerInterfaceExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -716,48 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/WrapperExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/FileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StringExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -828,27 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InterfaceExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-test2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -858,18 +762,190 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="237">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="176">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/CheckedExceptionExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ThrowExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ExceptionExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/TryResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/UserDefinedExceptionExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/FileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding>
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>

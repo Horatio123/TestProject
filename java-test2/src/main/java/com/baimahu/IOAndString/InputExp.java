@@ -1,4 +1,4 @@
-package com.baimahu;
+package com.baimahu.IOAndString;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class InputExp {
-    public static void main(String args[]) throws Exception{
+    public static void main(String[] args) throws Exception{
 //        System.out.println("please input a char");
 //        int i = System.in.read();
 //        System.out.println((char)i);

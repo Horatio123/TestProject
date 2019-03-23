@@ -1,9 +1,7 @@
-package com.baimahu;
-
-import javafx.geometry.HorizontalDirection;
+package com.baimahu.AbstractClass;
 
 public class AbstractExp2 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Iphone iphone = new Iphone();
         show(iphone);
         Honor honor = new Honor();

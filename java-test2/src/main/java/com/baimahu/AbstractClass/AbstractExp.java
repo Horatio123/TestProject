@@ -1,7 +1,7 @@
-package com.baimahu;
+package com.baimahu.AbstractClass;
 
 public class AbstractExp {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Iphone1 iphone = new Iphone3();
         iphone.call();
         iphone.move();
@@ -10,7 +10,7 @@ public class AbstractExp {
 }
 
 abstract class Iphone1 {
-    public void call() {
+    void call() {
         System.out.println("calling");
     }
     public abstract void move();

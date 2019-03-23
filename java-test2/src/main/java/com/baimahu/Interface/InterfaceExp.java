@@ -1,7 +1,7 @@
-package com.baimahu;
+package com.baimahu.Interface;
 
 public class InterfaceExp {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Animal pig = new Pig();
         pig.show();
         ((Pig) pig).eat();

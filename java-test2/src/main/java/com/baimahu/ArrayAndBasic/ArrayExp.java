@@ -1,11 +1,10 @@
-package com.baimahu;
+package com.baimahu.ArrayAndBasic;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class ArrayExp {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int [][] array2 = {
                 {1, 2, 3},
                 {2, 3, 4, 5},
@@ -19,7 +18,7 @@ public class ArrayExp {
             System.out.println();
         }
 
-        int array[] = {9, 8, 7};
+        int[] array = {9, 8, 7};
         Display.show(array);
         System.out.println();
         // Display.show(6); wrong
@@ -39,7 +38,7 @@ public class ArrayExp {
     }
 }
 class Display{
-    public static void show(int a[]){
+    public static void show(int[] a){
         for(int i: a){
             System.out.println(i);
         }

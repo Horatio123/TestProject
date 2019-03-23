@@ -1,9 +1,9 @@
-package com.baimahu;
+package com.baimahu.IOAndString;
 
 import java.util.ArrayList;
 
 public class WrapperExp {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Integer i = new Integer(5);
         int j = i.intValue();
 
