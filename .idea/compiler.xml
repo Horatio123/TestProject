@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-test2" />
         <module name="JavaStory" />
+        <module name="JAXRS" />
         <module name="ObsTest" />
         <module name="ServletJDBCDemo" />
         <module name="spark-basic" />

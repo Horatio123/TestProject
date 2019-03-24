@@ -15,6 +15,7 @@
       <module>ServletJDBCDemo</module>
       <module>java-test2</module>
       <module>JavaStory</module>
+      <module>JAX-RS</module>
   </modules>
 
   <name>TestProject</name>

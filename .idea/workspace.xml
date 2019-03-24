@@ -2,45 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e62f859e-5f3d-40fe-afce-d29aaacaac20" name="Default Changelist" comment="move some java files to new package">
+      <change afterPath="$PROJECT_DIR$/JAX-RS/JAXRS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAX-RS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAX-RS/src/main/java/com/baimahu/MyResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractExp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InterfaceExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/MarkerInterfaceExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/StringExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/WrapperExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AbstractExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AbstractExp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/AnonymousDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/ArrayExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Honor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InputExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InterfaceExp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/InterfaceExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Iphone3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic2$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/JavaBasic2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/MarkerInterfaceExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Peach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/Pig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/StringExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/WrapperExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-test2/target/classes/com/baimahu/xxx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletJDBCDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ServletJDBCDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,6 +20,7 @@
     <ignored path="$PROJECT_DIR$/ServletJDBCDemo/target/" />
     <ignored path="$PROJECT_DIR$/java-test2/target/" />
     <ignored path="$PROJECT_DIR$/JavaStory/target/" />
+    <ignored path="$PROJECT_DIR$/JAX-RS/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,109 +33,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1218">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/QRExp/QRExp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-              <folding>
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/AbstractClass/AbstractExp2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/WrapperExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/MarkerInterfaceExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="295">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAX-RS/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1587">
+              <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/java/com/baimahu/MyResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAX-RS/JAXRS.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="120">
               <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Interface/InterfaceExp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-              <folding>
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,20 +138,24 @@
     <findStrings>
       <find>start</find>
       <find>start()</find>
+      <find>clone</find>
     </findStrings>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Test/pom.xml" />
-        <option value="$PROJECT_DIR$/ObsTest/pom.xml" />
-        <option value="$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/TemporarySignatureSample.java" />
-        <option value="$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/ListObjectsSample.java" />
-        <option value="$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/BucketOperationsSample.java" />
         <option value="$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/ObjectMetaSample.java" />
         <option value="$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/App.java" />
         <option value="$PROJECT_DIR$/spark-basic/pom.xml" />
@@ -209,7 +168,6 @@
         <option value="$PROJECT_DIR$/JavaTest/src/main/java/com/baimahu/WarroirBattle.java" />
         <option value="$PROJECT_DIR$/JavaTest/src/main/java/com/baimahu/Battle.java" />
         <option value="$PROJECT_DIR$/JavaTest/src/main/java/com/baimahu/Warrior.java" />
-        <option value="$PROJECT_DIR$/ServletJDBCDemo/pom.xml" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/App.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Palindrome.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/JavaBasic.java" />
@@ -226,7 +184,6 @@
         <option value="$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/TheadTest.java" />
         <option value="$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/threadSafe/ThreadTest.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java" />
-        <option value="$PROJECT_DIR$/java-test2/pom.xml" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/CheckedExceptionExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ThrowExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ExceptionExp.java" />
@@ -242,6 +199,14 @@
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ObjectClone/ShallowDeepExp.java" />
+        <option value="$PROJECT_DIR$/java-test2/pom.xml" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/QRExp/QRExp.java" />
+        <option value="$PROJECT_DIR$/JAX-RS/src/main/java/com/baimahu/MyResource.java" />
+        <option value="$PROJECT_DIR$/JAX-RS/pom.xml" />
+        <option value="$PROJECT_DIR$/ServletJDBCDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/JAX-RS/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -255,6 +220,27 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAX-RS Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAX-RS Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAX-RS Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAX-RS Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ServletJDBCDemo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -311,7 +297,33 @@
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="java-test2" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -320,7 +332,58 @@
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStory" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JAX-RS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ServletJDBCDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ServletJDBCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ServletJDBCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ServletJDBCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ServletJDBCDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -333,11 +396,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553351107554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553437181586" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -359,22 +422,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaBasic">
-    <configuration name="CheckedExceptionExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.CheckedExceptionExp" />
-      <module name="java-test2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baimahu.Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.ArrayAndBasic.JavaBasic" />
+  <component name="RunManager" selected="Application.QRExp">
+    <configuration name="JavaBasic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.ArrayAndBasic.JavaBasic2" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
@@ -386,12 +436,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.ThrowExp" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.ArrayAndBasic.Palindrome" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.Exception.*" />
+          <option name="PATTERN" value="com.baimahu.ArrayAndBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +449,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.TryResource" />
+    <configuration name="QRExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.QRExp.QRExp" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.Exception.*" />
+          <option name="PATTERN" value="com.baimahu.QRExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,12 +462,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDefinedExceptionExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.Exception.UserDefinedExceptionExp" />
+    <configuration name="ShallowDeepCloneExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.ObjectClone.ShallowDeepCloneExp" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.Exception.*" />
+          <option name="PATTERN" value="com.baimahu.ObjectClone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShallowDeepExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.ObjectClone.ShallowDeepExp" />
+      <module name="java-test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baimahu.ObjectClone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,11 +490,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaBasic" />
-        <item itemvalue="Application.UserDefinedExceptionExp" />
-        <item itemvalue="Application.ThrowExp" />
-        <item itemvalue="Application.TryResource" />
-        <item itemvalue="Application.CheckedExceptionExp" />
+        <item itemvalue="Application.ShallowDeepExp" />
+        <item itemvalue="Application.ShallowDeepCloneExp" />
+        <item itemvalue="Application.QRExp" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.JavaBasic2" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +530,49 @@
       <option name="project" value="LOCAL" />
       <updated>1553350460074</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="move some java files to new package">
+      <created>1553351334484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351334484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Object clone and QR">
+      <created>1553400934845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553400934845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test git rebase and conflict">
+      <created>1553415710281</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553415710281</updated>
+    </task>
+    <task id="LOCAL-00007" summary="try git rebase and conflict">
+      <created>1553416264402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553416264402</updated>
+    </task>
+    <task id="LOCAL-00008" summary="try git pull">
+      <created>1553417167635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553417167635</updated>
+    </task>
+    <task id="LOCAL-00009" summary="merge into master branch">
+      <created>1553417359017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553417359017</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -481,7 +586,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.23319027" />
@@ -492,20 +596,20 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.2274678" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3313253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42289156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32650602" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35180724" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.40481928" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3433735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.23962805" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -543,97 +647,18 @@
     <MESSAGE value="add exception" />
     <MESSAGE value="add exception example" />
     <MESSAGE value="move some java files to new package" />
-    <option name="LAST_COMMIT_MESSAGE" value="move some java files to new package" />
+    <MESSAGE value="Object clone and QR" />
+    <MESSAGE value="test git rebase and conflict" />
+    <MESSAGE value="try git rebase and conflict" />
+    <MESSAGE value="try git pull" />
+    <MESSAGE value="merge into master branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge into master branch" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/baimahu/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/ConcurrentDownloadObjectSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/CreateFolderSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/ObjectMetaSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaTest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-993">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="54" column="52" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObsTest/src/main/java/com/baimahu/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -753,13 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -854,13 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/StringExp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -876,13 +887,6 @@
             <element signature="e#842#843#0" expanded="true" />
             <element signature="e#888#889#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -922,9 +926,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ObjectClone/ShallowDeepCloneExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4704">
+          <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="1248">
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -934,7 +987,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/IOAndString/InputExp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="120">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -942,10 +995,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/JavaBasic.java">
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/QRExp/QRExp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1218">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="295">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAX-RS/JAXRS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAX-RS/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1587">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/java/com/baimahu/MyResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1002,7 +1110,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>TestProject</last-edited>
+          <last-edited>JAXRS</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
