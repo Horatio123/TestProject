@@ -9,8 +9,9 @@ import java.io.FileOutputStream;
 
 public class QRExp {
     public static void main(String[] args) throws Exception{
-        String detail = "junye qiandaohu happy";
-        //String detail = "中雷怎么还没起床";
+        String detail = "laofan shenme shihou jiehun";
+        // String detail = "xiaoxian shenme shihou zai shenzhen maifang";
+        // String detail = "中雷怎么还没起床";
         ByteArrayOutputStream out = QRCode.from(detail).to(ImageType.JPG).stream();
         File f = new File("QR.jpg");
         FileOutputStream fos = new FileOutputStream(f);
