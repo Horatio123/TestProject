@@ -12,6 +12,7 @@ public class QRExp {
         String detail = "laofan shenme shihou jiehun";
         // String detail = "xiaoxian shenme shihou zai shenzhen maifang";
         // String detail = "中雷怎么还没起床";
+        // String detail = "why can not show chinese characters";
         ByteArrayOutputStream out = QRCode.from(detail).to(ImageType.JPG).stream();
         File f = new File("QR.jpg");
         FileOutputStream fos = new FileOutputStream(f);
