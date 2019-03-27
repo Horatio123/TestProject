@@ -9,13 +9,12 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>ObsTest</module>
-    <module>Test</module>
       <module>spark-basic</module>
       <module>ServletJDBCDemo</module>
       <module>java-test2</module>
       <module>JavaStory</module>
       <module>JAX-RS</module>
+      <module>ObsTest</module>
   </modules>
 
   <name>TestProject</name>
