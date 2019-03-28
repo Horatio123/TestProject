@@ -5,12 +5,12 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@Path("students")
+@Path("student")
 public class StudentResource {
     @GET
     @Produces(MediaType.APPLICATION_XML)
-    public Student getStudents(){
-        System.out.println("get into getStudents class");
+    public Student getStudent(){
+        System.out.println("get into getStudent class");
         Student stu = new Student();
         stu.setId(1);
         stu.setName("Horatio");
