@@ -1,8 +1,6 @@
 package com.baimahu;
 
-import javax.ws.rs.GET;
-import javax.ws.rs.Path;
-import javax.ws.rs.Produces;
+import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.List;
 
@@ -15,5 +13,19 @@ public class StudentsResource {
         System.out.println("get into getStudents class");
 
         return repo.getStudents();
+    }
+    @POST
+    @Path("student")
+    public Student createStudent(Student student){
+        System.out.println(student);
+        repo.createStudent(student);
+        return student;
+    }
+    @GET
+    @Path("student/{id}")
+    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
+    public Student getStudent(@PathParam("id") int id){
+        System.out.println("getStudent of identify id");
+        return repo.getStudent(id);
     }
 }

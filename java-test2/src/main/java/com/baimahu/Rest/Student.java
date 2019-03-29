@@ -1,4 +1,4 @@
-package com.baimahu;
+package com.baimahu.Rest;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

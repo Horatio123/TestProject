@@ -23,4 +23,17 @@ public class StudentsRepository {
     public List<Student> getStudents(){
         return students;
     }
+
+    public void createStudent(Student student){
+        students.add(student);
+    }
+
+    public Student getStudent(int id){
+        for (Student student: students){
+            if (student.getId() == id){
+                return student;
+            }
+        }
+        return null;
+    }
 }
