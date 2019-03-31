@@ -15,6 +15,7 @@
       <module>JavaStory</module>
       <module>JAX-RS</module>
       <module>ObsTest</module>
+      <module>mybatis-simple</module>
   </modules>
 
   <name>TestProject</name>

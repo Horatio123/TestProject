@@ -10,6 +10,7 @@
         <module name="JavaStory" />
         <module name="JAX-RS" />
         <module name="JAXRS" />
+        <module name="mybatis-simple" />
         <module name="ObsTest" />
         <module name="ServletJDBCDemo" />
         <module name="spark-basic" />
