@@ -9,6 +9,8 @@ public class JavaBasic
     public static void main( String[] args ) {
         int a = 0B1_011_000_111;
         System.out.println(a >> 2);
+        int c = 8;
+        System.out.println(c << 3);
 
         boolean b = true;
         int j = 0;
