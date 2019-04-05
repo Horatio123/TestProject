@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e62f859e-5f3d-40fe-afce-d29aaacaac20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,18 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAX-RS/src/main/java/com/baimahu/StudentsRepositoryJDBC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1280">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/File/ObjectSerializable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +77,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="264">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="1" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/RunnableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -118,19 +124,6 @@
                 <element signature="e#905#906#0" expanded="true" />
                 <element signature="e#938#939#0" expanded="true" />
                 <element signature="e#966#967#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Rest/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,8 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/TheadTest.java" />
-        <option value="$PROJECT_DIR$/JavaStory/src/main/java/com/baimahu/threadSafe/ThreadTest.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/InputExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/CheckedExceptionExp.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Exception/ThrowExp.java" />
@@ -218,6 +209,8 @@
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/File/ObjectSerializableXML.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/Test.java" />
         <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/RunnableDemo.java" />
       </list>
     </option>
   </component>
@@ -313,7 +306,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="baimahu" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
@@ -452,7 +445,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554391850784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554474827975" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -482,20 +475,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflectionTest">
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.File.FileTest" />
-      <module name="java-test2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baimahu.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RunnableDemo">
     <configuration name="ObjectSerializable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.baimahu.File.ObjectSerializable" />
       <module name="java-test2" />
@@ -522,12 +502,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.File.PropertyTest" />
+    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Reflection.ReflectionTest" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.File.*" />
+          <option name="PATTERN" value="com.baimahu.Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,12 +515,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baimahu.Reflection.ReflectionTest" />
+    <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Thread.RunnableDemo" />
       <module name="java-test2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baimahu.Reflection.*" />
+          <option name="PATTERN" value="com.baimahu.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baimahu.Thread.ThreadDemo" />
+      <module name="java-test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baimahu.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -597,11 +590,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnableDemo" />
+        <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.ReflectionTest" />
         <item itemvalue="Application.ObjectSerializableXML" />
         <item itemvalue="Application.ObjectSerializable" />
-        <item itemvalue="Application.PropertyTest" />
-        <item itemvalue="Application.FileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -735,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554390656085</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add reflection">
+      <created>1554391920453</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554391920453</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -751,7 +751,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.2360515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731663" visible="true" weight="0.2360515" />
       <window_info id="Structure" order="1" sideWeight="0.50268334" side_tool="true" weight="0.23319027" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -760,7 +760,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.2274678" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -838,26 +838,10 @@
     <MESSAGE value="add mybatis-simple module" />
     <MESSAGE value="add file test and properties" />
     <MESSAGE value="add serialization and xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add serialization and xml" />
+    <MESSAGE value="add reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reflection" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4704">
-          <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/ArrayAndBasic/ArrayExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ServletJDBCDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -1243,8 +1227,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Reflection/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="264">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-test2/src/main/java/com/baimahu/Thread/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
