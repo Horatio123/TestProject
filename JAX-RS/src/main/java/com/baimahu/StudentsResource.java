@@ -39,6 +39,14 @@ public class StudentsResource {
         System.out.println("getStudent of identify id");
         return repo.getStudent(id);
     }
+    @GET
+    @Path("student")
+    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
+    public Student getStudent(@QueryParam("id") int id, @QueryParam("point") int point){
+        System.out.println("getStudent of identify id: " + id);
+        System.out.println(point);
+        return repo.getStudent(id);
+    }
     @DELETE
     @Path("student/{id}")
     @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
