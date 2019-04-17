@@ -46,21 +46,28 @@ public class CollectionDemo {
         integerArrayList.forEach(System.out::println); //stream api lambda expression
         System.out.println();
 
+        Comparator<Integer> comparator1 = new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o1%10>o2%10?1:o1%10<o2%10?-1:0;
+            }
+        };
+
         Comparator<Integer> comparator = (o1, o2) -> {
                 if (o1%10 > o2%10)
                     return 1;
                 else
                     return -1;
         };
-        Collections.sort(integerArrayList, comparator);
+        Collections.sort(integerArrayList, comparator1);
         integerArrayList.forEach(System.out::println);
-        System.out.println();
+        System.out.println("comparator above");
 
         Collections.sort(integerArrayList, (value1, value2)->{
             return value1/100 > value2/100? 1: -1;
         });
         integerArrayList.forEach(System.out::println);
-        System.out.println();
+        System.out.println("lambda above");
 
 
 
