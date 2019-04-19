@@ -44,7 +44,7 @@ public class CollectionDemo {
         ComImpl comImpl = new ComImpl();
         Collections.sort(integerArrayList, comImpl);
         integerArrayList.forEach(System.out::println); //stream api lambda expression
-        System.out.println();
+        System.out.println("ComImpl above");
 
         Comparator<Integer> comparator1 = new Comparator<Integer>() {
             @Override
@@ -64,6 +64,7 @@ public class CollectionDemo {
         System.out.println("comparator above");
 
         Collections.sort(integerArrayList, (value1, value2)->{
+            //return value1.compareTo(value2);
             return value1/100 > value2/100? 1: -1;
         });
         integerArrayList.forEach(System.out::println);
@@ -77,9 +78,10 @@ public class CollectionDemo {
 class ComImpl implements Comparator<Integer> {
     @Override
     public int compare(Integer o1, Integer o2) {
-        if (o1 < o2)
-            return 1;
-
-        return -1;
+        return o1.compareTo(o2);
+//        if (o1 < o2)
+//            return 1;
+//
+//        return -1;
     }
 }
