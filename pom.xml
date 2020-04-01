@@ -11,7 +11,7 @@
   <modules>
       <module>spark-basic</module>
       <module>ServletJDBCDemo</module>
-      <module>java-test2</module>
+      <module>JavaBasic</module>
       <module>JavaStory</module>
       <module>JAX-RS</module>
       <module>ObsTest</module>
