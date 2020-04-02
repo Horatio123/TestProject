@@ -15,24 +15,41 @@ public class LockTest {
         Thread.sleep(5_000);
         Thread t2 = new Thread(lockObj::give);
         t2.start();
+        LockTest lockTest = new LockTest();
+        Thread thread4 = new Thread(lockTest::accessResource);
+        Thread thread5 = new Thread(lockTest::accessResource);
+        thread4.start();
+        thread5.start();
 
+        Thread thread6 = new Thread(LockTest::accessResourceLock);
+        Thread thread7 = new Thread(LockTest::accessResourceLock);
+        thread6.start();
+        thread7.start();
 
-            Thread thread4 = new Thread(LockTest::accessResource);
-            Thread thread5 = new Thread(LockTest::accessResource);
-            thread4.start();
-            thread5.start();
     }
 
-    private static void accessResource() {
-        ReentrantLock lock = new ReentrantLock();
+    private void accessResource() {
+        synchronized (this) {
+            System.out.println("synchronized test");
+            try {
+                Thread.sleep(3_000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
 
+        }
+    }
+
+    private static ReentrantLock lock = new ReentrantLock();
+    private static void accessResourceLock() {
         lock.lock();
-        System.out.println("ppp");
+        System.out.println("lock test");
         try {
             Thread.sleep(3_000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
         lock.unlock();
     }
 
