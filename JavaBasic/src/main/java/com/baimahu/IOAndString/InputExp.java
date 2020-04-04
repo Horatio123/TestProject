@@ -15,6 +15,8 @@ public class InputExp {
         InputStreamReader is = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(is);
         String line = br.readLine();
+//      int num = Integer.parseInt(line);
+//      System.out.println(num);
         System.out.println(line);
 
 //          System.out.println("please input a two num");
