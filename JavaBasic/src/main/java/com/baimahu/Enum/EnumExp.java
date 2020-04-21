@@ -6,7 +6,7 @@ public class EnumExp {
         System.out.println(Mobile.APPLE.price);
         System.out.println();
 
-        Mobile mobile[] = Mobile.values();
+        Mobile[] mobile = Mobile.values();
         for (Mobile m: mobile) {
             System.out.println(m.toString());
         }
