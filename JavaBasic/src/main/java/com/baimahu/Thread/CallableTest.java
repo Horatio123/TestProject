@@ -8,7 +8,7 @@ import java.util.concurrent.*;
 public class CallableTest {
     public static void main(String[] args) {
 
-        ExecutorService service = Executors.newScheduledThreadPool(3);
+        ExecutorService service = Executors.newFixedThreadPool(3);
         List<Future<Integer>> allFuture = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Future<Integer> future = service.submit(new FutureJob());
