@@ -1,6 +1,8 @@
 package com.baimahu.DataStructure;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
 
 public class TraverseTree {
@@ -21,11 +23,14 @@ public class TraverseTree {
 
         ArrayList<Integer> inorderList = binaryTree.StackInorder(root);
         ArrayList<Integer> preorderList = binaryTree.StackPreorder(root);
+        ArrayList<Integer> levelorderList = binaryTree.LevelOrder(root);
         //inorderList.forEach(System.out::print);
         System.out.print("\nInorder traverse: \n");
         inorderList.forEach(val -> System.out.print(val + " "));
         System.out.print("\nPreorder traverse: \n");
         preorderList.forEach(System.out::print);
+        System.out.print("\nLevel traverse: \n");
+        levelorderList.forEach(val -> System.out.print(val + " "));
 
     }
 
@@ -103,6 +108,24 @@ class BinaryTree {
                 node = node.right;
             }
         }
+        return list;
+    }
+
+    public ArrayList<Integer> LevelOrder(TreeNode node) {
+        ArrayList<Integer> list = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(node);
+        while (!queue.isEmpty()) {
+            node = queue.remove();
+            list.add(node.val);
+            if (node.left != null) {
+                queue.add(node.left);
+            }
+            if (node.right != null) {
+                queue.add(node.right);
+            }
+        }
+
         return list;
     }
 
